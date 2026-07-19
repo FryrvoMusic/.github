@@ -10,5 +10,5 @@
 
 <a href="https://github.com/fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Divider.png" alt="Discord" style="margin: 5px 10px;"></a>       
 
->Look for sometings else? [FryrvoPortal](https://github.com/FryrvoFox)
+>Look for sometings else? [FryrvoPortal](https://github.com/Fryrvosystem)
 >
